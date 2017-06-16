@@ -2,7 +2,7 @@ companies:
   - name: Criteo
     url: http://www.criteo.com/
     twitter: criteo
-    img: criteo-logo.png
+    img: criteo-favicon.ico
     diversitydata: No
     documentation: 
     date-updated: 
