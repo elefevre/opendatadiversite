@@ -7,3 +7,11 @@ companies:
     documentation: 
     date-updated: 
     status: No
+  - name: leboncoin
+    url: http://www.leboncoin.fr/
+    twitter: leboncoin
+    img: leboncoin-logo.png
+    diversitydata: No
+    documentation: 
+    date-updated: 
+    status: No
