@@ -2,12 +2,12 @@ safe: true
 permalink: pretty
 markdown: kramdown
 
-title: Open Diversity Data
-author: Double Union
+title: Open Data Diversité
+author: 
 description:
-    List of companies who have released data about their employee diversity, including EEO-1 forms.
-url: http://opendiversitydata.org
-repo: https://github.com/doubleunion/opendiversitydata
+    Liste d'entreprises qui ont publié les chiffres de la diversité parmi leurs employés.
+url: http://opendatadiversite.fr/
+repo: https://github.com/elefevre/opendatadiversite
 img: img/logo.png
 
 exclude:
