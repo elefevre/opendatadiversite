@@ -1,20 +1,4 @@
 sections:
   - id: tech
-    title: Technologie
+    title: Entreprises
     icon: code
-
-  - id: services
-    title: Services
-
-  - id: banking
-    title: Banque / Finance
-    icon: dollar
-
-  - id: defense
-    title: Défense and Aérospatiale
-    icon: globe
-
-  - id: other
-    title: Autre
-    icon: globe
-

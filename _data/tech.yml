@@ -2,10 +2,8 @@ companies:
   - name: Criteo
     url: http://www.criteo.com/
     twitter: criteo
-    img: apple.png
+    img: criteo-logo.png
     diversitydata: No
-    eeo-1: No
-    documentation: https://apple.com/diversity
+    documentation: 
     date-updated: 
     status: No
-
