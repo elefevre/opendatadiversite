@@ -1,4 +1,4 @@
-Contributing to [opendiversitydata](http://opendiversitydata.org/)
+Contributing to [opendatadiversite](http://opendatadiversite.fr/)
 =======================
 
 ## Contributing
@@ -30,7 +30,6 @@ this example:
           twitter: CompanyTwitter
           img: company.png
           data: Yes
-          eeo-1: Yes
           date-updated: 201X
           documentation: <link to company's diversity data>
 ```
@@ -61,9 +60,6 @@ that your company chunk follow the same order as the example above.
   status: <url to documentation>
   ```
   
-### Other Countries
-
-This site is focused on US companies, as there is a standard document format available. If your country has a standard format analogous to the EEO-1, please file an issue as we will be refactoring the site to add more countries.
 
 [yaml]: http://www.yaml.org/
-[issues]: https://github.com/doubleunion/opendiversitydata/issues
+[issues]: https://github.com/elefevre/opendatadiversite/issues

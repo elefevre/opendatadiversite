@@ -1,31 +1,25 @@
-OpenDiversityData.org 
+opendatadiversite.fr
 =================
 
-A list of companies (with a focus on Silicon Valley) and whether or not they publish data about employee demographics and diversity.
+Une liste d'entreprises, avec un lien éventuel vers leurs chiffres sur la diversité parmi leurs employées.
 
-## Contact
+## L'objectif
 
-Email us at info at opendiversitydata.org or tweet us at <a href="https://twitter.com/DiversityData">@DiversityData</a>.
+Notre objectif est de créer un site avec une liste complète d'entreprises qui publient les chiffres de la diversité parmi leurs employées.
 
-## The Goal
+Ces chiffres peuvent être utiles pour décider où travailler, mais également pour encourager les entreprises à publier ces chiffres.
 
-The goal is to have a website with a comprehensive list of companies which publish employee diversity data and demographics, with links to where that data can be found.
+## Contribuer
 
-This data can be useful to decide on where one might want to work, and to encourage companies which do not publish that data to do so.
+Pour contribuer, soumettez une Pull Request ou créer un rapport de bug.
 
-## Contributing
+## Licence
 
-If you'd like to contribute, read the guidelines here:
-[CONTRIBUTING.md][contrib].
+Ce code est distribué sous licence MIT. Pour plus d'informatio, voir le fichier [LICENSE][license] distribué avec le code source.
 
-## License
+## Remerciements
 
-This code is distributed under the MIT license. For more info, read the
-[LICENSE][license] file distributed with the source code.
-
-## Thanks
-
-This code was forked from the fine folks at <a href="http://twofactorauth.org">twofactorauth.org</a>.
+Ce code a été copié (forké dans le parler Github) à partir du projet <a href="https://github.com/doubleunion/opendiversitydata">http://opendiversitydata.org/</a>, lui-même copié à partir de <a href="http://twofactorauth.org">twofactorauth.org</a>.
 
 [contrib]: /CONTRIBUTING.md
 [license]: /LICENSE
