@@ -1,7 +1,7 @@
 companies:
   - name: Criteo
     url: http://www.criteo.com/
-    twitter: criteo
+    twitter: criteo_france
     img: criteo-favicon.ico
     diversitydata: No
     documentation: 
@@ -25,8 +25,32 @@ companies:
     status: No
   - name: Capgemini
     url: https://www.capgemini.com/
-    twitter: Capgemini
+    twitter: capgeminifrance
     img: capgemini.jpeg
+    diversitydata: No
+    documentation: 
+    date-updated: 
+    status: No
+  - name: Airbus
+    url: http://www.airbus.com/
+    twitter: Airbus
+    img: airbnb.png
+    diversitydata: No
+    documentation: 
+    date-updated: 
+    status: No
+  - name: Atos
+    url: https://atos.net/
+    twitter: atosfr
+    img: atos.png
+    diversitydata: No
+    documentation: 
+    date-updated: 
+    status: No
+  - name: Orange
+    url: https://www.orange.com/
+    twitter: Orange_France
+    img: orange.png
     diversitydata: No
     documentation: 
     date-updated: 
