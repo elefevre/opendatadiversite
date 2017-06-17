@@ -23,3 +23,11 @@ companies:
     documentation: 
     date-updated: 
     status: No
+  - name: Capgemini
+    url: https://www.capgemini.com/
+    twitter: Capgemini
+    img: capgemini.jpeg
+    diversitydata: No
+    documentation: 
+    date-updated: 
+    status: No
