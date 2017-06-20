@@ -55,3 +55,12 @@ companies:
     documentation: 
     date-updated: 
     status: No
+  - name: Enedis
+    url: http://www.enedis.fr/
+    twitter: enedis
+    img: enedis.jpg
+    diversitydata: Yes
+    documentation: http://www.enedis.fr/integrer-une-equipe-variee#onglet-egalite-homme-femme
+    date-updated: 2013
+    status: No
+    
